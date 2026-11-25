@@ -20,7 +20,7 @@ Digital temperature sensor with 1-Wire interface.
 | Name        | Description                                       | Default value  |
 | ----------- | ------------------------------------------------- | -------------- |
 | temperature | Initial temperature value (celsius)               | "22"           |
-| deviceID    | 12-character hex device ID for the 1-Wire address | "010203040506" |
+| deviceID    | 12-character hex device ID for the 1-Wire address | "111111111111" |
 | familyCode  | 1-Wire family code                                | "28"           |
 
 ## Controlling the temperature
